@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/task-application/static/css/main.61d1c3cf.css",
+    "main.js": "/task-application/static/js/main.5143e9db.js",
+    "static/media/google.png": "/task-application/static/media/google.23d7e8b37501e99225c2.png",
+    "index.html": "/task-application/index.html",
+    "main.61d1c3cf.css.map": "/task-application/static/css/main.61d1c3cf.css.map",
+    "main.5143e9db.js.map": "/task-application/static/js/main.5143e9db.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.61d1c3cf.css",
+    "static/js/main.5143e9db.js"
+  ]
+}
